@@ -254,6 +254,8 @@
     .main__content p {
       margin-top: 2rem;
       font-size: 1.7rem;
+      margin-bottom: 30%;
+      /* watch out */
     }
 
     .main__content a {
